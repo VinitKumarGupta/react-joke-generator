@@ -45,8 +45,8 @@ src/
 #### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/joke-generator.git
-cd joke-generator
+git clone https://github.com/VinitKumarGupta/react-joke-generator.git
+cd react-joke-generator
 ```
 
 #### 2. Install dependencies
