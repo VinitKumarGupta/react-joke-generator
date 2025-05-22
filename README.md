@@ -10,36 +10,6 @@ A fun and simple React project that fetches a new joke every time you click a bu
 
 ---
 
-### 🛠️ Features
-
--   Fetches a random joke from the [Official Joke API](https://official-joke-api.appspot.com).
--   Uses React functional components and hooks.
--   Clean, responsive styling using vanilla CSS.
--   Dark/light mode friendly (inherits system theme).
-
----
-
-### 📚 What I Learned
-
--   How to use `useState` and `useEffect` for API calls.
--   Handling asynchronous fetch logic in React.
--   Styling components in a responsive, user-friendly way.
--   Structuring a React project with modular components.
-
----
-
-### 📁 Folder Structure
-
-```
-src/
-├── App.jsx
-├── App.css
-├── JokeGenerator.jsx
-├── index.css
-```
-
----
-
 ### 📦 Getting Started
 
 #### 1. Clone the repo
