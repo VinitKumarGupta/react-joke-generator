@@ -1,6 +1,6 @@
 ## 😂 Random Joke Generator
 
-A fun and simple React project that fetches a new joke every time you click a button. Built using functional components, hooks, and a public API.
+A fun and simple React project that fetches a new joke every time you click a button.
 
 ---
 
@@ -38,9 +38,3 @@ npm run dev
 ### 🧠 Inspiration
 
 This project is part of my learning journey with React. It's a beginner-level application designed to explore APIs, hooks, and component-based architecture.
-
----
-
-### 📜 License
-
-MIT
